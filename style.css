@@ -48,6 +48,10 @@ p {
 
 }
 
+.link-button:hover {
+    box-shadow: inset 300px 0 0 0 yellow;
+}
+
 .section-grid {
 
     margin-top: 30px;
@@ -105,4 +109,9 @@ li {
 
 .google-font {
     font-family: 'Poppins', sans-serif;
+}
+
+.End-web {
+    color: black;
+    text-align: center;
 }
